@@ -8,6 +8,8 @@
 	<!-- Place your kit's code here -->
     <script src="https://kit.fontawesome.com/d2b7b04f08.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="estilos.css">
+
+<link  rel="icon"   href="venezuela-flag.png" type="image/png" />
 </head>
 <body>
 <div class="container-fluid contenedor">
