@@ -37,10 +37,7 @@ h1{
 	height: 200px;
 }
 
-.info{
-	margin-top: 20px;
-	padding: 10px;
-}
+
 .cajita{
 	padding-top: 12px;
 	padding-left: 40px;
@@ -91,5 +88,5 @@ background: linear-gradient(to right, #2948ff, #396afc); /* W3C, IE 10+/ Edge, F
 
 .info{
 	padding: 0px;
-	margin-top: 0px;
+	margin-top: 20px;
 }
