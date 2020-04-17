@@ -6,6 +6,13 @@ body{
 	padding: 0px;
 	margin: 0px;
 }
+.contenedor{
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
 .numeros{
 	font-size: 70px;
 }
@@ -80,4 +87,9 @@ background: linear-gradient(to right, #2948ff, #396afc); /* W3C, IE 10+/ Edge, F
 	padding-top: 10px;
 	background-color: black;
 	margin-bottom: 0px;
+}
+
+.info{
+	padding: 0px;
+	margin-top: 0px;
 }

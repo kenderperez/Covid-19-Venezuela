@@ -10,6 +10,7 @@
     <link rel="stylesheet" type="text/css" href="estilos.css">
 </head>
 <body>
+<div class="container-fluid contenedor">
 	<div class="row menu">
 		<div class="col-md-11 col-10"><i class="fas fa-virus" style="font-size: 22pt; margin-left: 21px; margin-top: 8px;"></i> <h1 style="display: inline-block;">Coronavirus en Venezuela</h1></div>
 		<div class="col-md-1 col-2"><img src="realtime.svg" id="live"></div>
@@ -74,7 +75,7 @@
 			
 		</div>
 	</div>
-
+</div>
 
 
 <script type="text/javascript" src="app.js"></script>
